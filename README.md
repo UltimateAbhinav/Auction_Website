@@ -50,6 +50,8 @@ Developed a dynamic auction website with functionality to add and manage auction
 
    - The input is given by the user in which they can add the image and decsription of the project with their respective desired prices to bid.
 
+   - Used MongoDB to store the data of the items added by the user.
+
 
 
 ## Contact
