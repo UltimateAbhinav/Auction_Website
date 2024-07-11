@@ -25,12 +25,12 @@ Developed a dynamic auction website with functionality to add and manage auction
 
 ## User Interface
 
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](Documentation_Resources/s1.jpg)
+![App Screenshot](Documentation_Resources/s2.jpg)
+![App Screenshot](Documentation_Resources/s3.jpg)
+![App Screenshot](Documentation_Resources/s4.jpg)
+![App Screenshot](Documentation_Resources/s5.jpg)
+![App Screenshot](Documentation_Resources/s6.jpg)
 
 
 
