@@ -6,20 +6,6 @@ Developed a dynamic auction website with functionality to add and manage auction
 
 
 
-## Tech Stack
-
-
-- HTML
-- CSS
-- JavaScript
-- React.js
-
-
-
-
-
-## Demo
-
 
 
 
